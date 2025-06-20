@@ -1,0 +1,37 @@
+{
+  "total_genres": 15020,
+  "generation_date": "2025-06-20T02:37:29.283330",
+  "hierarchy_levels": {
+    "Level_1": 20,
+    "Level_2": 15000
+  },
+  "regions": {
+    "USA": 4200,
+    "UK": 3900,
+    "Deutschland": 3600,
+    "Global": 2119,
+    "Japan": 300,
+    "Korea": 300,
+    "China": 300,
+    "Brasil": 300,
+    "Latin America": 1
+  },
+  "periods": {},
+  "status_distribution": {
+    "A": 14269,
+    "H": 751
+  },
+  "top_parent_genres": {
+    "1": 100,
+    "2": 100,
+    "3": 100,
+    "4": 100,
+    "5": 100,
+    "6": 100,
+    "7": 100,
+    "8": 100,
+    "9": 100,
+    "10": 100
+  },
+  "average_name_length": 24.81491344873502
+}

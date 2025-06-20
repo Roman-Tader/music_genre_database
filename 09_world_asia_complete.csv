@@ -1,0 +1,58 @@
+ID|Name|Lvl|PID|Region|Lang|Period|Status|Instr|Pioneers|Artists|Works|Source
+360|China Music|3|359|China|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+361|Guqin|4|360|China|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+362|Kunqu Opera|4|360|China|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+363|Beijing Opera|4|360|China|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+364|Mongolian Long Song|4|360|China|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+365|Canton Music|4|360|China-Canton|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+366|Cantonese Opera|5|365|China-Canton|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+367|Naamyam|5|365|China-Canton|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+368|Sichuan Music|4|360|China-Sichuan|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+369|Sichuan Opera|5|368|China-Sichuan|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+370|Chuanju|5|368|China-Sichuan|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+371|Xinjiang Music|4|360|China-Xinjiang|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+372|Uyghur Music|5|371|China-Xinjiang|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+373|Twelve Muqam|5|371|China-Xinjiang|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+374|Tibet Music|4|360|China-Tibet|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+375|Tibetan Music|5|374|China-Tibet|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+376|Tibetan Opera|5|374|China-Tibet|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+377|Inner Mongolia Music|4|360|China-Inner Mon|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+378|Mongolian Folk|5|377|China-Inner Mon|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+379|Horse Head Fiddle|5|377|China-Inner Mon|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+380|Indien Music|3|359|Indien|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+381|Hindustani|4|380|Indien|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+382|Carnatic|4|380|Indien|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+383|Punjab Music|4|380|Indien-Punjab|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+384|Bhangra|5|383|Indien-Punjab|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+385|Giddha|5|383|Indien-Punjab|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+386|Punjabi Folk|5|383|Indien-Punjab|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+387|Bengal Music|4|380|Indien-Bengal|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+388|Rabindra Sangeet|5|387|Indien-Bengal|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+389|Nazrul Geeti|5|387|Indien-Bengal|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+390|Baul|5|387|Indien-Bengal|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+391|Tamil Nadu Music|4|380|Indien-Tamil Na|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+392|Tamil Classical|5|391|Indien-Tamil Na|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+393|Tamil Film Music|5|391|Indien-Tamil Na|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+394|Kerala Music|4|380|Indien-Kerala|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+395|Sopana Sangeetham|5|394|Indien-Kerala|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+396|Kerala Classical|5|394|Indien-Kerala|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+397|Rajasthan Music|4|380|Indien-Rajastha|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+398|Rajasthani Folk|5|397|Indien-Rajastha|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+399|Manganiyar|5|397|Indien-Rajastha|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+400|Langa|5|397|Indien-Rajastha|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+401|Gujarat Music|4|380|Indien-Gujarat|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+402|Gujarati Folk|5|401|Indien-Gujarat|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+403|Garba|5|401|Indien-Gujarat|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+404|Dandiya|5|401|Indien-Gujarat|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+405|Japan Music|3|359|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+406|Gagaku|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+407|Noh|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+408|Kabuki|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+409|Bunraku|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+410|Min'yō|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+411|Shigin|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+412|Rokyoku|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+413|J-Pop|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+415|Visual Kei|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+416|City Pop|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+417|Shibuya-kei|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music

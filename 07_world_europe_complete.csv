@@ -1,0 +1,74 @@
+ID|Name|Lvl|PID|Region|Lang|Period|Status|Instr|Pioneers|Artists|Works|Source
+111|New Wave|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+135|British Invasion|2|3|USA/UK|EN|1960s|A|Various|Unknown|Various|Traditional|Rock Decade
+143|New Wave|2|3|USA/UK|EN|1980s|A|Various|Unknown|Various|Traditional|Rock Decade
+148|Britpop|2|3|USA/UK|EN|1990s|A|Various|Unknown|Various|Traditional|Rock Decade
+153|Emo|2|3|USA/UK|EN|2000s|A|Various|Unknown|Various|Traditional|Rock Decade
+155|Indie Folk|2|3|USA/UK|EN|2010s|A|Various|Unknown|Various|Traditional|Rock Decade
+156|Chillwave|2|3|USA/UK|EN|2010s|A|Various|Unknown|Various|Traditional|Rock Decade
+157|Noise Pop|2|3|USA/UK|EN|2010s|A|Various|Unknown|Various|Traditional|Rock Decade
+158|Dream Pop|2|3|USA/UK|EN|2010s|A|Various|Unknown|Various|Traditional|Rock Decade
+225|Deutschland Music|3|224|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+226|Volksmusik|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+227|Oktoberfest Musik|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+228|Rheinländer|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+229|Schunkellied|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+230|Neue Deutsche Welle|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+231|Hamburger Schule|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+233|Neue Deutsche Härte|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+234|Bayern Music|4|225|Deutschland-Bay|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+235|Bayerische Volksmusik|5|234|Deutschland-Bay|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+236|Blasmusik|5|234|Deutschland-Bay|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+237|Zwiefacher|5|234|Deutschland-Bay|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+238|Boarischer|5|234|Deutschland-Bay|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+239|Norddeutschland Music|4|225|Deutschland-Nor|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+240|Shanty|5|239|Deutschland-Nor|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+241|Plattdeutsche Lieder|5|239|Deutschland-Nor|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+242|Fischersongs|5|239|Deutschland-Nor|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+243|Rheinland Music|4|225|Deutschland-Rhe|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+244|Kölsche Musik|5|243|Deutschland-Rhe|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+245|Karnevalslieder|5|243|Deutschland-Rhe|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+246|Rheinischer Humor|5|243|Deutschland-Rhe|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+247|Schwaben Music|4|225|Deutschland-Sch|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+248|Schwäbische Volksmusik|5|247|Deutschland-Sch|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+249|Guggenmusik|5|247|Deutschland-Sch|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+250|Sachsen Music|4|225|Deutschland-Sac|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+251|Sächsische Volksmusik|5|250|Deutschland-Sac|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+252|Erzgebirgsmusik|5|250|Deutschland-Sac|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+253|Frankreich Music|3|224|Frankreich|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+254|Chanson|4|253|Frankreich|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+255|Bal Musette|4|253|Frankreich|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+256|Cabaret|4|253|Frankreich|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+257|Café Concert|4|253|Frankreich|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+258|Bretagne Music|4|253|Frankreich-Bret|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+259|Celtic Breton|5|258|Frankreich-Bret|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+260|Fest Noz|5|258|Frankreich-Bret|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+261|Kan ha Diskan|5|258|Frankreich-Bret|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+262|Bombarde|5|258|Frankreich-Bret|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+263|Provence Music|4|253|Frankreich-Prov|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+264|Provençal Music|5|263|Frankreich-Prov|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+265|Troubadour|5|263|Frankreich-Prov|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+266|Farandole|5|263|Frankreich-Prov|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+267|Auvergne Music|4|253|Frankreich-Auve|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+268|Bourrée|5|267|Frankreich-Auve|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+269|Auvergnat Folk|5|267|Frankreich-Auve|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+270|Corsica Music|4|253|Frankreich-Cors|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+271|Corsican Polyphony|5|270|Frankreich-Cors|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+272|Paghjella|5|270|Frankreich-Cors|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+273|Italien Music|3|224|Italien|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+274|Neapel Music|4|273|Italien-Neapel|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+275|Canzone Napoletana|5|274|Italien-Neapel|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+276|Tarantella Napoletana|5|274|Italien-Neapel|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+277|Sizilien Music|4|273|Italien-Sizilie|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+278|Sicilian Folk|5|277|Italien-Sizilie|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+279|Canto Siciliano|5|277|Italien-Sizilie|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+280|Sardinien Music|4|273|Italien-Sardini|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+281|Sardinian Music|5|280|Italien-Sardini|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+282|Launeddas|5|280|Italien-Sardini|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+283|Venetien Music|4|273|Italien-Venetie|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+284|Venetian Songs|5|283|Italien-Venetie|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+285|Gondoliers Songs|5|283|Italien-Venetie|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+286|Piemont Music|4|273|Italien-Piemont|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+288|Toscana Music|4|273|Italien-Toscana|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+289|Tuscan Folk|5|288|Italien-Toscana|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+290|Maggio Drammatico|5|288|Italien-Toscana|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music

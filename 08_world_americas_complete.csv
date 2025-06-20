@@ -1,0 +1,83 @@
+ID|Name|Lvl|PID|Region|Lang|Period|Status|Instr|Pioneers|Artists|Works|Source
+45|Dixieland|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+46|Swing|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+47|Bebop|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+49|Hard Bop|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+51|Fusion|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+56|Post-Bop|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+63|Third Stream|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+65|Big Band|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+66|Small Combo|2|2|USA|EN|1890-now|A|Various|Unknown|Various|Traditional|Jazz Subgenre
+80|Territory Bands|2|2|USA|EN|1920s|A|Various|Unknown|Various|Traditional|Jazz Era
+81|Swing Era|2|2|USA|EN|1930s|A|Various|Unknown|Various|Traditional|Jazz Era
+82|Big Band Era|2|2|USA|EN|1930s|A|Various|Unknown|Various|Traditional|Jazz Era
+83|Dance Band|2|2|USA|EN|1930s|A|Various|Unknown|Various|Traditional|Jazz Era
+84|Bebop Revolution|2|2|USA|EN|1940s|A|Various|Unknown|Various|Traditional|Jazz Era
+88|Hard Bop Era|2|2|USA|EN|1950s|A|Various|Unknown|Various|Traditional|Jazz Era
+93|Fusion Era|2|2|USA|EN|1970s|A|Various|Unknown|Various|Traditional|Jazz Era
+95|ECM Style|2|2|USA|EN|1970s|A|Various|Unknown|Various|Traditional|Jazz Era
+97|Wynton Era|2|2|USA|EN|1980s|A|Various|Unknown|Various|Traditional|Jazz Era
+292|USA Music|3|291|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+293|Plains Indian Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+294|Woodland Indian Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+295|Pueblo Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+296|Navajo Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+297|Cherokee Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+298|Sioux Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+299|Apache Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+300|Inuit Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+301|Northwest Coast Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+302|California Indian Music|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+303|Spirituals|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+304|Work Songs|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+305|Field Hollers|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+306|Ring Shouts|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+307|Gospel|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+310|Soul|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+311|Funk|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+313|Anglo-American Ballads|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+314|Irish-American|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+315|German-American|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+316|Italian-American|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+317|Polish-American|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+318|Scandinavian-American|4|292|USA|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+319|Appalachian Music|4|292|USA-Appalachian|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+320|Old-Time|5|319|USA-Appalachian|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+321|Bluegrass|5|319|USA-Appalachian|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+322|Mountain Music|5|319|USA-Appalachian|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+323|Cajun/Creole Music|4|292|USA-Cajun/Creol|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+324|Cajun|5|323|USA-Cajun/Creol|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+325|Zydeco|5|323|USA-Cajun/Creol|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+326|Creole|5|323|USA-Cajun/Creol|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+327|Tex-Mex Music|4|292|USA-Tex-Mex|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+328|Conjunto|5|327|USA-Tex-Mex|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+329|Tejano|5|327|USA-Tex-Mex|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+330|Norteño|5|327|USA-Tex-Mex|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+331|Hawaiian Music|4|292|USA-Hawaiian|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+332|Traditional Hawaiian|5|331|USA-Hawaiian|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+333|Slack Key|5|331|USA-Hawaiian|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+334|Steel Guitar|5|331|USA-Hawaiian|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+335|Brasilien Music|3|291|Brasilien|EN|1900-now|A|Various|Unknown|Various|Traditional|National Music
+336|Northeast Music|4|335|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+337|Forró|5|336|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+338|Frevo|5|336|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+339|Maracatu|5|336|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+340|Xaxado|5|336|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+341|Baião|5|336|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+342|Southeast Music|4|335|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+343|Samba|5|342|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+344|Choro|5|342|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+345|Bossa Nova|5|342|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+346|MPB|5|342|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+347|South Music|4|335|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+348|Sertanejo|5|347|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+349|Vaneira|5|347|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+350|Milonga Gaúcha|5|347|Brasilien-South|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+351|North Music|4|335|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+352|Carimbó|5|351|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+353|Boi-Bumbá|5|351|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+354|Lundu|5|351|Brasilien-North|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+355|Center-West Music|4|335|Brasilien-Cente|EN|1900-now|A|Various|Unknown|Various|Traditional|Subregional Music
+356|Rasqueado|5|355|Brasilien-Cente|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+357|Cururu|5|355|Brasilien-Cente|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music
+358|Siriri|5|355|Brasilien-Cente|EN|1900-now|A|Various|Unknown|Various|Traditional|Local Music

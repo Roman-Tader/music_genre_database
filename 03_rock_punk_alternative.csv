@@ -1,0 +1,57 @@
+ID|Name|Lvl|PID|Region|Lang|Period|Status|Instr|Pioneers|Artists|Works|Source
+105|Rock and Roll|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+106|Hard Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+107|Progressive Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+108|Psychedelic Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+109|Glam Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+110|Punk Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+112|Alternative Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+113|Grunge|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+114|Indie Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+115|Post-Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+116|Math Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+117|Arena Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+118|Southern Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+119|Garage Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+120|Surf Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+121|Folk Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+122|Country Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+124|Art Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+125|Krautrock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+126|Space Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+127|Stoner Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+128|Noise Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+129|Experimental Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+130|Instrumental Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+131|Symphonic Rock|2|3|USA/UK|EN|1950-now|A|Various|Unknown|Various|Traditional|Rock Subgenre
+132|Rock and Roll|2|3|USA/UK|EN|1950s|A|Various|Unknown|Various|Traditional|Rock Decade
+133|Rockabilly|2|3|USA/UK|EN|1950s|A|Various|Unknown|Various|Traditional|Rock Decade
+134|Doo Wop Rock|2|3|USA/UK|EN|1950s|A|Various|Unknown|Various|Traditional|Rock Decade
+136|Psychedelic Rock|2|3|USA/UK|EN|1960s|A|Various|Unknown|Various|Traditional|Rock Decade
+137|Folk Rock|2|3|USA/UK|EN|1960s|A|Various|Unknown|Various|Traditional|Rock Decade
+138|Garage Rock|2|3|USA/UK|EN|1960s|A|Various|Unknown|Various|Traditional|Rock Decade
+139|Hard Rock|2|3|USA/UK|EN|1970s|A|Various|Unknown|Various|Traditional|Rock Decade
+140|Progressive Rock|2|3|USA/UK|EN|1970s|A|Various|Unknown|Various|Traditional|Rock Decade
+141|Glam Rock|2|3|USA/UK|EN|1970s|A|Various|Unknown|Various|Traditional|Rock Decade
+142|Pub Rock|2|3|USA/UK|EN|1970s|A|Various|Unknown|Various|Traditional|Rock Decade
+144|Post-Punk|2|3|USA/UK|EN|1980s|A|Various|Unknown|Various|Traditional|Rock Decade
+145|Alternative Rock|2|3|USA/UK|EN|1980s|A|Various|Unknown|Various|Traditional|Rock Decade
+146|College Rock|2|3|USA/UK|EN|1980s|A|Various|Unknown|Various|Traditional|Rock Decade
+147|Grunge|2|3|USA/UK|EN|1990s|A|Various|Unknown|Various|Traditional|Rock Decade
+149|Indie Rock|2|3|USA/UK|EN|1990s|A|Various|Unknown|Various|Traditional|Rock Decade
+150|Alternative Metal|2|3|USA/UK|EN|1990s|A|Various|Unknown|Various|Traditional|Rock Decade
+151|Garage Rock Revival|2|3|USA/UK|EN|2000s|A|Various|Unknown|Various|Traditional|Rock Decade
+152|Post-Rock|2|3|USA/UK|EN|2000s|A|Various|Unknown|Various|Traditional|Rock Decade
+154|Math Rock|2|3|USA/UK|EN|2000s|A|Various|Unknown|Various|Traditional|Rock Decade
+232|Deutschrock|4|225|Deutschland|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+414|J-Rock|4|405|Japan|EN|1900-now|A|Various|Unknown|Various|Traditional|Regional Music
+491|Post-Rock Iceland|4|488|Island|EN|1900-now|A|Various|Unknown|Various|Traditional|Island Music
+599|Filipino Rock|4|595|Philippinen|EN|1900-now|A|Various|Unknown|Various|Traditional|Philippinen Music
+620|Cambodian Rock|4|618|Kambodscha|EN|1900-now|A|Various|Unknown|Various|Traditional|Kambodscha Music
+737|Kiwi Rock|4|736|Neuseeland|EN|1900-now|A|Various|Unknown|Various|Traditional|Neuseeland Music
+799|Cyberpunk|2|792|Internet|EN|2000-now|E|Various|Unknown|Various|Traditional|Internet Genre
+819|Seapunk|2|792|Internet|EN|2000-now|E|Various|Unknown|Various|Traditional|Internet Genre
+855|Hardcore Punk|3||Global|EN|1990-now|A|Various|Unknown|Various|Traditional|Extra Microgenre
+858|Street Punk|3||Global|EN|1990-now|A|Various|Unknown|Various|Traditional|Extra Microgenre
+859|Crust Punk|3||Global|EN|1990-now|A|Various|Unknown|Various|Traditional|Extra Microgenre
+886|Gypsy Punk|3||Global|EN|1990-now|A|Various|Unknown|Various|Traditional|Extra Microgenre

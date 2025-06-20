@@ -1,0 +1,201 @@
+ID|Name|Lvl|PID|Region|Lang|Period|Status|Instr|Pioneers|Artists|Works
+1|Blues|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+2|Jazz|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+3|Rock|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+4|Pop|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+5|Hip-Hop|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+6|Electronic|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+7|Classical|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+8|Folk|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+9|Country|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+10|Reggae|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+11|Latin|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+12|World Music|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+13|Ambient|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+14|Metal|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+15|Punk|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+16|Funk|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+17|Soul|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+18|R&B|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+19|Dance|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+20|Experimental|1||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+21|Schlager (Deutschland)|2||Deutschland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+22|Krautrock (Deutschland)|2||Deutschland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+23|Neue Deutsche Welle (Deutschland)|2||Deutschland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+24|Hamburger Schule (Deutschland)|2||Deutschland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+25|Austropop (Österreich)|2||Österreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+26|Wiener Lied (Österreich)|2||Österreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+27|Alpenrock (Österreich)|2||Österreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+28|Schwyzerdütsch (Schweiz)|2||Schweiz|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+29|Ländler (Schweiz)|2||Schweiz|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+30|Appenzeller (Schweiz)|2||Schweiz|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+31|Chanson (Frankreich)|2||Frankreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+32|Yé-yé (Frankreich)|2||Frankreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+33|Variété française (Frankreich)|2||Frankreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+34|Zouk (Frankreich)|2||Frankreich|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+35|Canzone (Italien)|2||Italien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+36|Cantautore (Italien)|2||Italien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+37|Italo Disco (Italien)|2||Italien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+38|Flamenco (Spanien)|2||Spanien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+39|Rumba catalana (Spanien)|2||Spanien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+40|Copla (Spanien)|2||Spanien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+41|Fado (Portugal)|2||Portugal|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+42|Pimba (Portugal)|2||Portugal|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+43|Folk português (Portugal)|2||Portugal|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+44|Celtic (Irland)|2||Irland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+45|Irish Traditional (Irland)|2||Irland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+46|Irish Rock (Irland)|2||Irland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+47|Highland (Schottland)|2||Schottland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+48|Lowland (Schottland)|2||Schottland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+49|Gaelic Song (Schottland)|2||Schottland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+50|Hardanger (Norwegen)|2||Norwegen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+51|Sami joik (Norwegen)|2||Norwegen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+52|Norwegian Black Metal (Norwegen)|2||Norwegen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+53|Visa (Schweden)|2||Schweden|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+54|Dansband (Schweden)|2||Schweden|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+55|Swedish Death Metal (Schweden)|2||Schweden|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+56|Humppa (Finnland)|2||Finnland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+57|Jenkka (Finnland)|2||Finnland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+58|Finnish Metal (Finnland)|2||Finnland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+59|Viser (Dänemark)|2||Dänemark|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+60|Danish Folk (Dänemark)|2||Dänemark|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+61|Levenslied (Niederlande)|2||Niederlande|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+62|Nederpop (Niederlande)|2||Niederlande|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+63|Kleinkunst (Belgien)|2||Belgien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+64|Belgian New Beat (Belgien)|2||Belgien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+65|Disco Polo (Polen)|2||Polen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+66|Polish Folk (Polen)|2||Polen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+67|Moravian Folk (Tschechien)|2||Tschechien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+68|Czech New Wave (Tschechien)|2||Tschechien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+69|Magyar nóta (Ungarn)|2||Ungarn|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+70|Csárdás (Ungarn)|2||Ungarn|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+71|Manele (Rumänien)|2||Rumänien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+72|Romanian Folk (Rumänien)|2||Rumänien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+73|Chalga (Bulgarien)|2||Bulgarien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+74|Bulgarian Folk (Bulgarien)|2||Bulgarien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+75|Rebetiko (Griechenland)|2||Griechenland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+76|Laïkó (Griechenland)|2||Griechenland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+77|Bouzouki (Griechenland)|2||Griechenland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+78|Chanson (Russland)|2||Russland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+79|Russian Folk (Russland)|2||Russland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+80|Bard Song (Russland)|2||Russland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+81|Ukrainian Folk (Ukraine)|2||Ukraine|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+82|Bandura Music (Ukraine)|2||Ukraine|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+83|Samba (Brasilien)|2||Brasilien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+84|Bossa Nova (Brasilien)|2||Brasilien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+85|MPB (Brasilien)|2||Brasilien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+86|Forró (Brasilien)|2||Brasilien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+87|Baião (Brasilien)|2||Brasilien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+88|Tango (Argentinien)|2||Argentinien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+89|Folklore (Argentinien)|2||Argentinien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+90|Cuarteto (Argentinien)|2||Argentinien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+91|Mariachi (Mexiko)|2||Mexiko|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+92|Ranchera (Mexiko)|2||Mexiko|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+93|Norteño (Mexiko)|2||Mexiko|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+94|Cumbia (Kolumbien)|2||Kolumbien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+95|Vallenato (Kolumbien)|2||Kolumbien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+96|Bambuco (Kolumbien)|2||Kolumbien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+97|Huayno (Peru)|2||Peru|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+98|Marinera (Peru)|2||Peru|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+99|Criolla (Peru)|2||Peru|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+100|Nueva Canción (Chile)|2||Chile|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+101|Cueca (Chile)|2||Chile|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+102|Joropo (Venezuela)|2||Venezuela|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+103|Merengue venezolano (Venezuela)|2||Venezuela|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+104|Son (Kuba)|2||Kuba|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+105|Mambo (Kuba)|2||Kuba|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+106|Salsa (Kuba)|2||Kuba|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+107|Reggae (Jamaika)|2||Jamaika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+108|Ska (Jamaika)|2||Jamaika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+109|Dancehall (Jamaika)|2||Jamaika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+110|Dub (Jamaika)|2||Jamaika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+111|Calypso (Trinidad)|2||Trinidad|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+112|Soca (Trinidad)|2||Trinidad|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+113|Steelpan (Trinidad)|2||Trinidad|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+114|Blues (USA)|2||USA|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+115|Jazz (USA)|2||USA|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+116|Country (USA)|2||USA|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+117|Hip-Hop (USA)|2||USA|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+118|Rock (USA)|2||USA|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+119|Celtic Canadian (Kanada)|2||Kanada|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+120|French Canadian (Kanada)|2||Kanada|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+121|J-Pop (Japan)|2||Japan|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+122|Visual Kei (Japan)|2||Japan|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+123|City Pop (Japan)|2||Japan|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+124|Enka (Japan)|2||Japan|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+125|K-Pop (Korea)|2||Korea|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+126|Trot (Korea)|2||Korea|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+127|Gugak (Korea)|2||Korea|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+128|C-Pop (China)|2||China|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+129|Chinese Opera (China)|2||China|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+130|Guoyue (China)|2||China|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+131|Bollywood (Indien)|2||Indien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+132|Carnatic (Indien)|2||Indien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+133|Hindustani (Indien)|2||Indien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+134|Bhangra (Indien)|2||Indien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+135|Luk thung (Thailand)|2||Thailand|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+136|Mor lam (Thailand)|2||Thailand|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+137|Thai Pop (Thailand)|2||Thailand|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+138|Dangdut (Indonesien)|2||Indonesien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+139|Kroncong (Indonesien)|2||Indonesien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+140|Gamelan (Indonesien)|2||Indonesien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+141|OPM (Philippinen)|2||Philippinen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+142|Kundiman (Philippinen)|2||Philippinen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+143|Harana (Philippinen)|2||Philippinen|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+144|V-Pop (Vietnam)|2||Vietnam|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+145|Cải lương (Vietnam)|2||Vietnam|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+146|Vietnamese Folk (Vietnam)|2||Vietnam|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+147|Afrobeat (Nigeria)|2||Nigeria|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+148|Highlife (Nigeria)|2||Nigeria|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+149|Jùjú (Nigeria)|2||Nigeria|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+150|Hiplife (Ghana)|2||Ghana|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+151|Azonto (Ghana)|2||Ghana|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+152|Ghana Highlife (Ghana)|2||Ghana|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+153|Kwaito (Südafrika)|2||Südafrika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+154|Mbaqanga (Südafrika)|2||Südafrika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+155|Amapiano (Südafrika)|2||Südafrika|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+156|Benga (Kenia)|2||Kenia|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+157|Mugithi (Kenia)|2||Kenia|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+158|Genge (Kenia)|2||Kenia|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+159|Ethiopian Jazz (Äthiopien)|2||Äthiopien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+160|Tizita (Äthiopien)|2||Äthiopien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+161|Wassoulou (Mali)|2||Mali|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+162|Malian Blues (Mali)|2||Mali|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+163|Mbalax (Senegal)|2||Senegal|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+164|Senegalese Hip-Hop (Senegal)|2||Senegal|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+165|Chaabi (Marokko)|2||Marokko|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+166|Gnawa (Marokko)|2||Marokko|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+167|Rai (Marokko)|2||Marokko|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+168|Shaabi (Ägypten)|2||Ägypten|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+169|Tarab (Ägypten)|2||Ägypten|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+170|Mahraganat (Ägypten)|2||Ägypten|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+171|Arabesk (Türkei)|2||Türkei|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+172|Türk Sanat Müziği (Türkei)|2||Türkei|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+173|Anatolian Rock (Türkei)|2||Türkei|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+174|Persian Traditional (Iran)|2||Iran|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+175|Iranian Pop (Iran)|2||Iran|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+176|Mizrahi (Israel)|2||Israel|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+177|Israeli Rock (Israel)|2||Israel|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+178|Hebrew Song (Israel)|2||Israel|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+179|Lebanese Pop (Libanon)|2||Libanon|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+180|Fairuz Style (Libanon)|2||Libanon|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+181|Australian Country (Australien)|2||Australien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+182|Aboriginal Music (Australien)|2||Australien|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+183|Kiwi Rock (Neuseeland)|2||Neuseeland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+184|Māori Music (Neuseeland)|2||Neuseeland|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+185|Ritual Music|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+186|Shamanic Music|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+187|Tribal Chants|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+188|Ancient Greek Music|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+189|Roman Music|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+190|Egyptian Sacred|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+191|Mesopotamian|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+192|Gregorian Chant|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+193|Minnesang|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+194|Troubadour|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+195|Organum|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+196|Madrigal|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+197|Chanson|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+198|Lute Songs|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+199|Sacred Polyphony|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
+200|Baroque Opera|2||Global|EN|1900-now|A|Various|Unknown|Various Artists|Traditional
